@@ -1,5 +1,5 @@
 html {
-    width: 400px;
+    width: 90vw;
     height: auto;
     background: white;
     border: none;
@@ -10,11 +10,11 @@ body {
     top:-10px;
     left: -8px;
     background: white;
-    width: 360px;
+    width: 350px;
     height: auto;
     font-family: "gotham narrow", sans-serif;
     font-weight: 400;
-     font-size: 15px;
+    font-size: 15px;
     line-height: 23px;
 }
 
