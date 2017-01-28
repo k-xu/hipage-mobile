@@ -89,6 +89,8 @@ button a {
 }
 
 
-
+::-webkit-scrollbar { 
+    display: none; 
+}
 
 
