@@ -1,7 +1,8 @@
 html {
-    width: 100vw;
-    height: 100vh;
-    background: black;
+    width: 400px;
+    height: auto;
+    background: white;
+    border: none;
 }
 
 body {
@@ -9,14 +10,13 @@ body {
     top:-10px;
     left: -10px;
     background: white;
-    width: 100vw;
-    height: 100vh;
+    width: 380px;
+    height: auto;
     font-family: "gotham narrow", sans-serif;
     font-weight: 400;
      font-size: 15px;
     line-height: 23px;
 }
-
 
 
 /*
@@ -34,29 +34,27 @@ h1 {
 }
 */
 
-.instructionHead {
-    float: left;
-    margin-left: 39px;
-}
 
 #instruction1 {
     float: left;
+    width: auto;
     font-family: "gotham narrow", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
     line-height: 23px;
-    margin-top: 50px;
-    width: 90vw;
+    margin-top: 50px; margin-left: 39px;
     color: black;
 }
 
 
-#object1 {
+
+.imgobject1 {
     float: left;
     margin-top: 10;
     margin-left: 43;
     color: white;
+    width: auto;
 }
 
 
@@ -67,14 +65,12 @@ h1 {
 
 #interests {
     float: left;
-    width: 90vw;
     margin-left: 43px;
-    margin-top: 20px;s
+    margin-top: 20px;
 }
 
 #workexp {
     float: left;
-    width: 90vw;
     margin-left: 43px;
 }
 
@@ -95,7 +91,7 @@ a {
 button a {
     font-family: "gotham narrow", sans-serif;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 17px;
 }
 
 
