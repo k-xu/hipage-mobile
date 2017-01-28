@@ -8,7 +8,7 @@ html {
 body {
     position: absolute;
     top:-10px;
-    left: -10px;
+    left: -8px;
     background: white;
     width: 380px;
     height: auto;
@@ -43,7 +43,7 @@ h1 {
     font-weight: 400;
     font-size: 15px;
     line-height: 23px;
-    margin-top: 50px; margin-left: 39px;
+    margin-top: 50px;
     color: black;
 }
 
@@ -52,7 +52,6 @@ h1 {
 .imgobject1 {
     float: left;
     margin-top: 10;
-    margin-left: 43;
     color: white;
     width: auto;
 }
@@ -65,13 +64,11 @@ h1 {
 
 #interests {
     float: left;
-    margin-left: 43px;
     margin-top: 20px;
 }
 
 #workexp {
     float: left;
-    margin-left: 43px;
 }
 
 a {
