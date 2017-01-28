@@ -1,7 +1,7 @@
 html {
     width: 90vw;
     height: auto;
-    background: white;
+    background: black;
     border: none;
 }
 
@@ -10,7 +10,7 @@ body {
     top:-10px;
     left: -8px;
     background: white;
-    width: 350px;
+    width: 400px;
     height: auto;
     font-family: "gotham narrow", sans-serif;
     font-weight: 400;
@@ -37,7 +37,7 @@ h1 {
 
 #instruction1 {
     float: left;
-    width: auto;
+    width: 360px;
     font-family: "gotham narrow", sans-serif;
     color: black;
 }
@@ -58,12 +58,14 @@ h1 {
 
 
 #interests {
+    width: 360px;
     float: left;
     margin-top: 20px;
 }
 
 #workexp {
     float: left;
+    width: 360px;
 }
 
 a {
